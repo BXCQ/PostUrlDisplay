@@ -15,6 +15,10 @@
 7. **悬停预览**: 鼠标悬停时显示完整URL，避免长链接显示问题
 
 ## 布局优化
+![image](https://github.com/user-attachments/assets/f1b841cd-4fc1-4686-ba42-639d0614dc96)
+
+![image](https://github.com/user-attachments/assets/48264d7e-0d63-458b-98f7-e17be84410bd)
+
 
 插件会智能调整表格布局，设置合适的容器宽度，并修复原有的显示问题：
 
@@ -177,7 +181,7 @@ A: 默认会截断显示，鼠标悬停在URL上可以看到完整链接。
 
 ## 作者
 
-您的名字
+璇
 
 ## 许可证
 
