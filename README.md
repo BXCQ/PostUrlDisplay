@@ -182,6 +182,7 @@ A: 默认会截断显示，鼠标悬停在URL上可以看到完整链接。
 ## 作者
 
 璇
+blog: https://blog.ybyq.wang/archives/515.html
 
 ## 许可证
 
